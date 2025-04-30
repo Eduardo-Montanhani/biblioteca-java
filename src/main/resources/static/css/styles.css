@@ -1,0 +1,51 @@
+/* Fonte limpa e moderna */
+body {
+    background-color: #f4f6f8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #212529;
+    margin: 0;
+    padding: 0;
+}
+
+/* Títulos elegantes */
+h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #0d6efd;
+    margin-bottom: 1.5rem;
+}
+
+/* Containers bem definidos */
+.container {
+    background-color: #ffffff;
+    padding: 40px;
+    margin-top: 50px;
+    border-radius: 15px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.06);
+}
+
+/* Botões com visual claro */
+.btn {
+    margin: 8px 12px 8px 0;
+    padding: 12px 22px;
+    font-size: 16px;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Efeito hover para botões */
+.btn-outline-info:hover {
+    background-color: #0dcaf0;
+    color: #fff;
+    border-color: #0dcaf0;
+}
+
+/* Seção com título destacado */
+.section-title {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #495057;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #e9ecef;
+}
